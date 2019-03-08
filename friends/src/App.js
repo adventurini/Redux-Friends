@@ -5,8 +5,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-       <FriendsList/>
-       <FriendsForm/>
+       <FriendsListView/>
+       <FriendsFormView/>
       </div>
     );
   }
